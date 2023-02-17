@@ -12,13 +12,13 @@ export const Container = styled.div`
   box-shadow: 5px 5px 12.9px -2.15px rgba(0, 0, 0, 0.1),
 `;
 
-
 export const Title = styled.p`
+
 `;
 
 export const Images = styled.img`
-  width: 150px;
-  height: 200px;
+  width: 120px;
+  height: 150px;
   margin: 0 auto;
   display: block;
   border-radius: 4px;
@@ -36,7 +36,3 @@ export const ShortDescription = styled.p`
   text-overflow: ellipsis;
   -webkit-box-orient: vertical;
 `;
-
-
-
-

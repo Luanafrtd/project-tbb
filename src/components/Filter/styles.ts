@@ -1,9 +1,9 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-  Width: 100%;
   display: flex;
   flex-direction: column;
+  margin-right: 100px;
 `;
 
 export const Title = styled.p`
@@ -12,13 +12,12 @@ export const Title = styled.p`
   font-size: 18px;
   padding-left: 4px;
   padding-bottom: 4px;
-  border-bottom: 1px solid gray;
+  border-bottom: 1px solid Gainsboro;
 `;
 
 export const CheckBox = styled.div`
   color: gray;
   display: flex;
-  padding-top: 16px;
   flex-direction: column;
 `;
 
@@ -30,8 +29,4 @@ export const NameProduct = styled.p`
 export const Box = styled.div`
   display: flex;
   flex-direction: row;
-  align-items: center;
-  padding-bottom: 6px;
 `;
-
-

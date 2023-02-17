@@ -6,6 +6,10 @@ export const Container = styled.div`
   flex-direction: column;
 `;
 
+export const ContainerFilterAndProducts = styled.div`
+  display: flex;
+`;
+
 export const CardsContainer = styled.div`
   display: flex;
   justify-content: center;
@@ -13,8 +17,6 @@ export const CardsContainer = styled.div`
   gap: 26px;
 `;
 
-export const ContainerFilterAndProducts = styled.div`
-  display: flex;
-`;
+
 
 

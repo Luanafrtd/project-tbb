@@ -11,9 +11,9 @@ export const Title = styled.p`
 `;
 
 export const Search = styled.div`
-  width: 320px;
+  width: 250px;
   display: flex;
-  border-bottom: 1px solid gray;
+  border-bottom: 1px solid Gainsboro;
 `;
 
 export const Button = styled.button`
