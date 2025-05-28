@@ -27,4 +27,8 @@ This is a web application developed using React and TypeScript as part of my lea
 
 ---
 
+🔗 Live Demo
+[Click here to view the deployed app](https://project-tbb.vercel.app)
+
+
 Made with 💙 by [@luanafrtd](https://github.com/luanafrtd)
